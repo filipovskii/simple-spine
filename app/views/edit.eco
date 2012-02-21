@@ -1,0 +1,9 @@
+<div class="edit-item">
+<form>
+  <label>
+    <span>name:</span>
+    <input name="name" type="text" value="<%= @name %>" />
+  </label>
+  <button class="save">Save</button>
+</form>
+
